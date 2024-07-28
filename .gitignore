@@ -1,0 +1,9 @@
+# Ignore all .docx and .pdf files
+*.docx
+*.pdf
+
+# Ignore specific CSV files
+car_data.csv
+user_data.csv
+
+
